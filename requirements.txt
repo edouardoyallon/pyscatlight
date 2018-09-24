@@ -1,0 +1,5 @@
+cupy
+scikit-cuda
+pynvrtc
+tqdm
+git+https://github.com/pytorch/tnt.git@master
