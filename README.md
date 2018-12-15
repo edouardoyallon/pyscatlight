@@ -1,4 +1,4 @@
-# pyscatlight_dirt
+# pyscatlight
 
 Installing pyscatlight:
 
