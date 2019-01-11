@@ -1,5 +1,19 @@
 # pyscatlight
 
+This code is for the paper
+http://researchers.lille.inria.fr/~valko/hp/publications/oyallon2018compressing.pdf
+
+Please cite the following if you use this code in your paper
+@InProceedings{Oyallon_2018_ECCV,
+author = {Oyallon, Edouard and Belilovsky, Eugene and Zagoruyko, Sergey and Valko, Michal},
+title = {Compressing the Input for CNNs with the First-Order Scattering Transform},
+booktitle = {The European Conference on Computer Vision (ECCV)},
+month = {September},
+year = {2018}
+}
+
+
+
 Installing pyscatlight:
 
 ```
